@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Erlang SDK">
+    <CLASSES>
+      <root url="file://C:/Program Files/erl-23.3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
